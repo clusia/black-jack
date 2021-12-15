@@ -4,6 +4,8 @@ body {
     font-weight: bold;
     color: white;
     text-align: center;
+    margin-top: 10vw;
+    line-height: 30px;
 }
 
 h1 {
